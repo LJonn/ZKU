@@ -1,2 +1,1 @@
-# ZKU
-# ZKU
+# Assignments for ZKU courses
